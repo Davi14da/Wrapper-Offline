@@ -1,4 +1,4 @@
-# Wrapper: Offline
+u# Wrapper: Offline
 Wrapper: Offline is an easy-to-use GoAnimate Server Emulator that uses Electron. Unlike the original project, Offline can not be shut down by Vyond. Why? It's because everything is hosted and programmed to function locally, no internet access required, barring the initial download (and TTS at this time). This project is important for archival purposes, as the ability to use this legacy editor and themes would be far trickier without it. Besides the main feature of Offline, we have also added other additional features and improvements compared to the original GoAnimate Wrapper project, and there will be more to come, as Offline will continue to get additional updates in the future.
 
 [Find more info in the wiki.](https://github.com/Wrapper-Offline/Wrapper-Offline/wiki)
